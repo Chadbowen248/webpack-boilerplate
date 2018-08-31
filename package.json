@@ -1,0 +1,21 @@
+{
+  "name": "js-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack --progress --colors --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.3.17",
+    "babel-loader": "^6.2.0",
+    "babel-preset-env": "^1.7.0",
+    "webpack": "^1.12.9"
+  },
+  "dependencies": {
+    "tiny-pipe": "^1.0.5"
+  }
+}
